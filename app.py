@@ -1,10 +1,8 @@
 from pathlib import Path
 import streamlit as st
 from PIL import Image
-
-
-#path settings                      
-#css_file= current_dir/"styles"/"main.css"
+                   
+css_file= "main.css"
 resume_file= "cv.pdf"
 profile_pic= "profile-pic.png"
 
