@@ -3,7 +3,7 @@ import streamlit as st
 from PIL import Image
                    
 css_file= "main.css"
-resume_file= "cv.pdf"
+resume_file= "CV.pdf"
 profile_pic= "profile-pic.png"
 
 #general settings
