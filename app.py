@@ -71,10 +71,11 @@ st.write("#")
 st.subheader("EDUCATION & CREDENTIAL")
 st.write(
     """
-    - Bachelor of Science (Computer science) from Madras University
-    - English (C1 equivalent)
-    - French (B1 equivalent)
-    - German (A1) from Goethe Institue
+    - Bachelor of Science (Computer science)
+    - Masters in computer applications (incomplete)
+    - English
+    - French
+    - German (B1 equivalent)
     - ITIL V3 Foundation from AXELOS
 
     """
@@ -82,15 +83,14 @@ st.write(
 
 #skills
 st.write("#")
-st.subheader("Hard skills")
+st.subheader("Skills")
 st.write(
     """
-    - Knowledge in XML, .NET, ASP, VisualBasic...
-    - Programming Langue – Python…..
+    - Knowledge in Python, DAX, XML, .NET, ASP, VisualBasic...
     - Softwares - SAP SuccessFactors, Adobe Photoshop…..
     - BI tools – KNIME, Power BI, TIBCO Spot fire and Superset
     - Ticketing tools - Clear Quest, Cornerstone and JIRA
-    - Database – MySQL, MS SQL Server and MongoDB(Beginner)
+    - Database – MySQL, MS SQL Server, DuckDB and MongoDB(Beginner)
 
     """
 )
