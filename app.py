@@ -12,7 +12,7 @@ page_title ="Digital CV | Mohan"
 page_icon = ":wave:"
 name= "MohanKumar"
 description= """Result-focused and an astute professional spanning 10+ years in IT & ITES domains, delivering positive outcomes in areas of Business Intelligence, Service Delivery, Application Support and more…
-Multi linguistic communicator, developed interpersonal skills with European business culture and stakeholders. Capable of defining strategies with deliverable’s.
+Built software robots for various activities (Robotic process automation). Capable of defining strategies with deliverable’s.
 """
 email="mohain@gmail.com"
 social_media={
