@@ -62,8 +62,10 @@ st.write("#")
 st.subheader("Experience & Qualificaitons")
 st.write(
     """
-    - Developed automated solutions that make it possible to create forecasts, trigger emails and generate live reports. These automations have not only increased efficiency but also enabled real-time weekly customer reports.
-    - Extensive knowledge of using tools such as Power BI, Apache Superset, Excel and programming languages such as Python.
+    - Developed automated solutions for various projects within outlook, MS office....
+    - Developed live forecast using live data, trigger emails, automated reports and a live dashboard. 
+    - Built automation software to streamline business processes using Robotic desktop automation (RDA) and robotic process automation (RPA).
+    - Extensive knowledge of using tools such as Power BI, KNIME, TIBCO Sportfire, Apache Superset, csv and xlsx files and programming language such as Python.
     """
 )
 # EDUCATION & CREDENTIAL
