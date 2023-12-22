@@ -63,7 +63,7 @@ st.subheader("Experience & Qualificaitons")
 st.write(
     """
     - Developed automated solutions that make it possible to create forecasts, trigger emails and generate live reports. These automations have not only increased efficiency but also enabled real-time weekly customer reports.
-    - Extensive knowledge of using tools such as Power BI, Apache Superset, Excel and programming languages such as Python to create meaningful dashboards.
+    - Extensive knowledge of using tools such as Power BI, Apache Superset, Excel and programming languages such as Python.
     """
 )
 # EDUCATION & CREDENTIAL
