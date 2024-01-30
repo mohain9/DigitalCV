@@ -11,8 +11,10 @@ profile_pic= "profile-pic.png"
 page_title ="Digital CV | Mohan"
 page_icon = ":wave:"
 name= "MohanKumar"
-description= """Result-focused and an astute professional spanning 10+ years in IT & ITES domains, delivering positive outcomes in areas of Business Intelligence, Service Delivery, Application Support and more…
-Built software robots for various activities (Robotic process automation). Capable of defining strategies with deliverable’s.
+description= """Accomplished BI & Data Analytics Specialist with a robust foundation in computer science, 
+showcasing expertise in creating automated solutions. Acknowledged for adeptly leading  BI development, IT support and 
+data analyst teams, overseeing comprehensive service delivery, and actively contributing to the conception and execution. 
+Proven track record of leveraging technical skills to drive operational efficiency and deliver impactful solutions.
 """
 email="mohain@gmail.com"
 social_media={
@@ -45,6 +47,14 @@ with st.sidebar:
     st.write("Programming Skills (e.g., Python)") 
     st.write("Data Warehousing and ETL Processes") 
     st.write("") 
+    st.write("**LANGUAGES**") 
+    st.write(
+    """
+    - English (C1)
+    - French (B2)
+    - German (B1)
+    """
+)
 
 
 
@@ -97,10 +107,6 @@ st.subheader("EDUCATION & CREDENTIAL")
 st.write(
     """
     - Bachelor of Science (Computer science)
-    - Masters in computer applications (incomplete)
-    - English
-    - French
-    - German (B1 equivalent)
     - ITIL V3 Foundation from AXELOS
 
     """
