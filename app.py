@@ -38,6 +38,15 @@ with st.sidebar:
     st.write("Incident Mgmt.       :	★★☆☆☆") 
     st.write("Data Engineer        :	★★☆☆☆") 
     st.write("") 
+    st.write("HARD SKILLS") 
+    st.write("SQL and Database Querying") 
+    st.write("Data Visualization and Reporting Tools") 
+    st.write("Advanced Excel and Spreadsheet Skills") 
+    st.write("Programming Skills (e.g., Python)") 
+    st.write("Data Warehousing and ETL Processes") 
+    st.write("") 
+
+
 
 st.title(" ")
 
