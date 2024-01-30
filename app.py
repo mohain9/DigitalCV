@@ -30,8 +30,8 @@ st.set_page_config(page_title=page_title,page_icon=page_icon)
 with st.sidebar:
     st.write("**KEY SKILLS**")
     st.write("""
-    Data Analyst         : 	★★★★★ 
-    BI Developer         :	★★★★★ 
+    ★★★★★ Data Analyst 	
+    ★★★★★ BI Developer         :	
     Data Visualization   :	★★★★★ 
     Intellectual curiosity:	★★★★★ 
     Analytics Engineer   :	★★★★☆ 
