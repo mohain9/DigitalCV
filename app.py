@@ -29,25 +29,34 @@ projects= {
 st.set_page_config(page_title=page_title,page_icon=page_icon)
 with st.sidebar:
     st.write("**KEY SKILLS**")
-    rows = [
-    "★★★★★ Data Analyst",
-    "★★★★★ BI Developer",
+    roles = [
+    "Data Analyst",
+    "BI Developer",
+    "Data Visualization",
+    "Intellectual curiosity",
+    "Analytics Engineer",
+    "BI Analyst",
+    "IT Service delivery",
+    "Programmer Analyst",
+    "Incident Mgmt.",
+    "Data Engineer",
 ]
-    for row in rows:
-      st.text(row)
-    st.write("""
-    ★★★★★ Data Analyst.	
-    ★★★★★ BI Developer.
-    :	
-    Data Visualization   :	★★★★★ 
-    Intellectual curiosity:	★★★★★ 
-    Analytics Engineer   :	★★★★☆ 
-    BI Analyst           :	★★★★☆ 
-    IT Service delivery  : 	★★★★☆ 
-    Programmer Analyst   :	★★★☆☆
-    Incident Mgmt.       :	★★☆☆☆
-    Data Engineer        :	★★☆☆☆
-    """) 
+
+ratings = [
+    "★★★★★",
+    "★★★★★",
+    "★★★★★",
+    "★★★★★",
+    "★★★★☆",
+    "★★★★☆",
+    "★★★★☆",
+    "★★★☆☆",
+    "★★☆☆☆",
+    "★★☆☆☆",
+]
+
+for role, rating in zip(roles, ratings):
+    st.write(f"{rating} {role}")
     st.write("") 
     st.write("**HARD SKILLS**") 
     st.write("""
