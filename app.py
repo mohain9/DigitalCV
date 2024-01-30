@@ -29,6 +29,11 @@ projects= {
 st.set_page_config(page_title=page_title,page_icon=page_icon)
 with st.sidebar:
     st.write("**KEY SKILLS**")
+    rows = [
+    "★★★★★ Data Analyst",
+    "★★★★★ BI Developer",
+]
+    st.write(rows)
     st.write("""
     ★★★★★ Data Analyst.	
     ★★★★★ BI Developer.
