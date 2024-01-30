@@ -53,28 +53,28 @@ with st.sidebar:
     "★★★☆☆",
     "★★☆☆☆",
     "★★☆☆☆",
-  ]
+    ]
 
-  for role, rating in zip(roles, ratings):
-    st.write(f"{rating} {role}")
-  st.write("") 
-  st.write("**HARD SKILLS**") 
-  st.write("""
-  - SQL and Database Querying.
-  - Data Visualization and Reporting ToolS. 
-  - Advanced Excel and Spreadsheet Skills.
-  - Programming Skills (e.g., Python).
-  - Data Warehousing and ETL Processes.
-  """)
-  st.write("") 
-  st.write("**LANGUAGES**") 
-  st.write(
-  """
-  - English (C1)
-  - French (B2)
-  - German (B1)
-  """
-)
+    for role, rating in zip(roles, ratings):
+        st.write(f"{rating} {role}")
+    st.write("") 
+    st.write("**HARD SKILLS**") 
+    st.write("""
+    - SQL and Database Querying.
+    - Data Visualization and Reporting ToolS. 
+    - Advanced Excel and Spreadsheet Skills.
+    - Programming Skills (e.g., Python).
+    - Data Warehousing and ETL Processes.
+    """)
+    st.write("") 
+    st.write("**LANGUAGES**") 
+    st.write(
+    """
+    - English (C1)
+    - French (B2)
+    - German (B1)
+    """
+    )
 
 
 
