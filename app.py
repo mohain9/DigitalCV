@@ -25,6 +25,9 @@ projects= {
 }
 
 st.set_page_config(page_title=page_title,page_icon=page_icon)
+with st.sidebar:
+    st.write(KEY SKILLS)
+
 st.title("Digital ")
 
 #load css, pdf & profile pic
