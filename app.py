@@ -27,8 +27,12 @@ projects= {
 st.set_page_config(page_title=page_title,page_icon=page_icon)
 with st.sidebar:
     st.write("KEY SKILLS")
+    st.write("Data Analyst         : 	★★★★★") 
+    st.write("Data Analyst         : 	★★★★★") 
+    st.write("Data Analyst         : 	★★★★★") 
+    st.write("Data Analyst         : 	★★★★★") 
 
-st.title("Digital ")
+st.title(" ")
 
 #load css, pdf & profile pic
 with open (css_file) as f:
