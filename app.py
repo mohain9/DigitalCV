@@ -30,16 +30,16 @@ st.set_page_config(page_title=page_title,page_icon=page_icon)
 with st.sidebar:
     st.write("**KEY SKILLS**")
     roles = [
-    "Data Analyst",
-    "BI Developer",
-    "Data Visualization",
-    "Intellectual curiosity",
-    "Analytics Engineer",
-    "BI Analyst",
-    "IT Service delivery",
-    "Programmer Analyst",
-    "Incident Mgmt.",
-    "Data Engineer",
+    "  Data Analyst",
+    "  BI Developer",
+    "  Data Visualization",
+    "  Intellectual curiosity",
+    "  Analytics Engineer",
+    "  BI Analyst",
+    "  IT Service delivery",
+    "  Programmer Analyst",
+    "  Incident Mgmt.",
+    "  Data Engineer",
     ]
 
     ratings = [
