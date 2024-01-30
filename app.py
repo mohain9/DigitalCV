@@ -33,7 +33,8 @@ with st.sidebar:
     "★★★★★ Data Analyst",
     "★★★★★ BI Developer",
 ]
-    st.write(rows)
+    for row in rows:
+      st.text(row)
     st.write("""
     ★★★★★ Data Analyst.	
     ★★★★★ BI Developer.
