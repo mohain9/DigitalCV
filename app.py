@@ -26,7 +26,7 @@ projects= {
 
 st.set_page_config(page_title=page_title,page_icon=page_icon)
 with st.sidebar:
-    st.write("KEY SKILLS")
+    st.write("**KEY SKILLS**")
     st.write("Data Analyst         : 	★★★★★") 
     st.write("BI Developer         :	★★★★★") 
     st.write("Data Visualization   :	★★★★★") 
@@ -38,7 +38,7 @@ with st.sidebar:
     st.write("Incident Mgmt.       :	★★☆☆☆") 
     st.write("Data Engineer        :	★★☆☆☆") 
     st.write("") 
-    st.write("HARD SKILLS") 
+    st.write("**HARD SKILLS**") 
     st.write("SQL and Database Querying") 
     st.write("Data Visualization and Reporting Tools") 
     st.write("Advanced Excel and Spreadsheet Skills") 
