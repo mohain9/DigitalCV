@@ -41,11 +41,13 @@ with st.sidebar:
     st.write("Data Engineer        :	★★☆☆☆") 
     st.write("") 
     st.write("**HARD SKILLS**") 
-    st.write("SQL and Database Querying") 
-    st.write("Data Visualization and Reporting Tools") 
-    st.write("Advanced Excel and Spreadsheet Skills") 
-    st.write("Programming Skills (e.g., Python)") 
-    st.write("Data Warehousing and ETL Processes") 
+    st.write("""
+    - SQL and Database Querying.
+    - Data Visualization and Reporting ToolS. 
+    - Advanced Excel and Spreadsheet Skills.
+    - Programming Skills (e.g., Python).
+    - Data Warehousing and ETL Processes.
+    """
     st.write("") 
     st.write("**LANGUAGES**") 
     st.write(
