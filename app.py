@@ -47,7 +47,7 @@ with st.sidebar:
     - Advanced Excel and Spreadsheet Skills.
     - Programming Skills (e.g., Python).
     - Data Warehousing and ETL Processes.
-    """
+    """)
     st.write("") 
     st.write("**LANGUAGES**") 
     st.write(
